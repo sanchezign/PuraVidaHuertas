@@ -1,0 +1,117 @@
+@media (max-width: 1369px) {
+  header {
+    flex-direction: column;
+    align-items: center;
+    .navbar li a {
+      font-size: 35px;
+    }
+  }
+  main {
+    .bienvenida {
+      h1 {
+        font-size: 35px;
+      }
+
+      h2 {
+        font-size: 30px;
+      }
+    }
+
+    .box {
+      .card {
+        width: 180px;
+        height: 260px;
+      }
+    }
+  }
+}
+
+@media (max-width: 1129px) {
+  header {
+    .navbar li a {
+      font-size: 30px;
+    }
+  }
+  main {
+    .bienvenida {
+      h1 {
+        font-size: 35px;
+      }
+
+      h2 {
+        font-size: 30px;
+      }
+    }
+    .box {
+      .card {
+        width: 160px;
+        height: 240px;
+      }
+    }
+  }
+}
+
+@media (max-width: 750px) {
+  .navbar li a {
+    flex-direction: column;
+    font-size: 30px;
+  }
+  .navbar {
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+  }
+  main {
+    .bienvenida {
+      h1 {
+        font-size: 30px;
+      }
+
+      h2 {
+        font-size: 25px;
+      }
+      .texto {
+        font-size: 30px;
+      }
+    }
+    .box {
+      .card {
+        width: 120px;
+        height: 200px;
+      }
+    }
+  }
+}
+
+@media (max-width: 425px) {
+  .navbar li a {
+    font-size: 25px;
+  }
+
+  main {
+    .bienvenida {
+      .texto {
+        font-size: 25px;
+      }
+    }
+  }
+}
+
+@media (max-width: 320px) {
+  .navbar li a {
+    flex-direction: column;
+    font-size: 20px;
+  }
+  .navbar {
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+  }
+  main {
+    .bienvenida {
+      .texto {
+        font-size: 20px;
+      }
+    }
+  }
+}

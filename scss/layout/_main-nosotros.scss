@@ -1,0 +1,18 @@
+main {
+  .boxtext {
+    display: flex;
+    flex-flow: column wrap;
+    row-gap: 20px;
+    column-gap: 10px;
+    justify-content: space-evenly;
+    align-content: center;
+    padding-top: 50px;
+  }
+  .boxNos {
+    @include boxnos;
+  }
+
+  .boxNos2 {
+    @include boxnos2;
+  }
+}

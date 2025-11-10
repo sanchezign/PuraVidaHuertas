@@ -1,0 +1,11 @@
+main {
+  .boxtienda {
+    display: flex;
+    flex-flow: row wrap;
+    row-gap: 20px;
+    column-gap: 10px;
+    justify-content: space-evenly;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+}
