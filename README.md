@@ -51,11 +51,11 @@ Sitio web oficial de **Pura Vida Huertas**, una huerta agroecológica dedicada a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/inicio.jpg" alt="Inicio" width="48%"/>
-<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/galeria.jpg" alt="Galería" width="48%"/>
+<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/inicio.jpg" alt="Inicio" width="48%" style="border-radius:10px; margin:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/galeria.jpg" alt="Galería" width="48%" style="border-radius:10px; margin:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 
-<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/tienda.jpg" alt="Tienda" width="48%"/>
-<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/mobile.jpg" alt="Mobile" width="48%"/>
+<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/tienda.jpg" alt="Tienda" width="48%" style="border-radius:10px; margin:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/mobile.jpg" alt="Versión móvil" width="35%" style="border-radius:10px; margin:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 
 </div>
 ---
@@ -65,6 +65,7 @@ Sitio web oficial de **Pura Vida Huertas**, una huerta agroecológica dedicada a
 ```bash
 git clone https://github.com/sanchezign/PuraVidaHuertas.git
 cd PuraVidaHuertas
+
 
 
 
