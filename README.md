@@ -49,11 +49,15 @@ Sitio web oficial de **Pura Vida Huertas**, una huerta agroecológica dedicada a
 
 ## 📱 Capturas del proyecto
 
-![Inicio](https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/inicio.jpg)
-![Galería](https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/galeria.jpg)
-![Tienda](https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/tienda.jpg)
-![Mobile](https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/mobile.jpg)
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/inicio.jpg" alt="Inicio" width="48%"/>
+<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/galeria.jpg" alt="Galería" width="48%"/>
+
+<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/tienda.jpg" alt="Tienda" width="48%"/>
+<img src="https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/mobile.jpg" alt="Mobile" width="48%"/>
+
+</div>
 ---
 
 ## 🖥️ Cómo ejecutar el proyecto localmente
@@ -61,6 +65,7 @@ Sitio web oficial de **Pura Vida Huertas**, una huerta agroecológica dedicada a
 ```bash
 git clone https://github.com/sanchezign/PuraVidaHuertas.git
 cd PuraVidaHuertas
+
 
 
 
