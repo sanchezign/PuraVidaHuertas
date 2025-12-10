@@ -1,36 +1,66 @@
-# Mi Proyecto Final.
+# Pura Vida Huertas 🌱  
+**Sitio Web Oficial – Proyecto Final Desarrollo Web**
 
-Este proyecto se trata en sobre la pagina web oficial de pura vida huertas.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)](https://pages.github.com/)
 
-## Tecnologias que utilizamos.
+Sitio web oficial de **Pura Vida Huertas**, una huerta agroecológica dedicada a la producción sostenible, el cuidado del suelo y la alimentación consciente.
 
-- HTML
-- CSS
-- SASS
-- Boostrap
+🔗 **Ver demo en vivo →** [https://sanchezign.github.io/PuraVidaHuertas/](https://sanchezign.github.io/PuraVidaHuertas/)
 
-  ### Paginas.
+---
 
-  Este sitio web cuenta con las siguientes paginas.
+## 🚀 Características principales
 
-  - Inicio
-  - Galeria
-  - Tienda
-  - Nosotros
-  - Contacto
+- Diseño completamente responsive (móvil, tablet y escritorio)
+- Paleta de colores natural y cálida acorde a la identidad de la huerta
+- Navegación fluida con menú hamburguesa en móviles
+- Galería de fotos, tienda de productos y formulario de contacto funcional
+- Código limpio, bien comentado y organizado con SASS
 
-#### Construido con ..
+---
 
-- Visual Studio Code - El editor de codigo usado
-- Sass - Preprocesador de css
-- Git - Usado para versionado y repositorio local
-- GitHub - Usado para versionado y para alojar el repositorio Git
-- Node.js - Necesario para funcionamiento de Sass
+## 📂 Páginas del sitio
 
-##### Demo
+| Página      | Descripción                                   |
+|-------------|-----------------------------------------------|
+| Inicio      | Landing con presentación y llamado a la acción |
+| Galería     | Fotos de cultivos, procesos y productos       |
+| Tienda      | Catálogo de productos disponibles             |
+| Nosotros    | Misión, visión y valores de la huerta         |
+| Contacto    | Formulario + datos de contacto y ubicación    |
 
-- Podras ver una demo en el siguiente link:
-- https://sanchezign.github.io/PuraVidaHuertas/
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **HTML5** – Estructura semántica
+- **CSS3 + SASS** – Estilos modulares y variables
+- **Bootstrap 5** – Grid system y componentes responsive
+- **JavaScript nativo** – Interactividad básica
+- **Git & GitHub** – Control de versiones y despliegue
+- **Node.js + Sass** – Compilación automática de estilos
+- **Visual Studio Code** – Editor de código
+
+---
+
+## 📱 Capturas del proyecto
+
+![Inicio](https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/inicio.jpg)
+![Galería](https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/galeria.jpg)
+![Tienda](https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/tienda.jpg)
+![Mobile](https://raw.githubusercontent.com/sanchezign/PuraVidaHuertas/main/assets/readme/mobile.jpg)
+
+---
+
+## 🖥️ Cómo ejecutar el proyecto localmente
+
+```bash
+git clone https://github.com/sanchezign/PuraVidaHuertas.git
+cd PuraVidaHuertas
 
 
 
